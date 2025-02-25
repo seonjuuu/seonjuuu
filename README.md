@@ -17,9 +17,9 @@
 
 <!-- 프로젝트 -->
 ## 💻 Projects
-| 프로젝트명 | 설명 | 
+| 프로젝트명 | 설명 | 깃허브 |
 |:---------:|:---------:|
-|**[걸음걸이](https://github.com/pirogramming/geol-eum-geol-i)** | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 |
+| **🏃걸음걸이** | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 | [걸음걸이](https://github.com/pirogramming/geol-eum-geol-i)
 
 <!-- Tech Stack -->
 
