@@ -25,5 +25,10 @@
 
 
 <!-- Statistics(통계) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=compact&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-![seonjuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=compact&show_icons=true&theme=monokai&langs_count=6&card_width=38%" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai&card_width=56%" />
+</a>
