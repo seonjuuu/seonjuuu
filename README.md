@@ -25,4 +25,4 @@
 
 
 <!-- Statistics(통계) -->
-[![Seonjuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonjuuu)](https://github.com/anuraghazra&count_private=true&theme=monokai&show_icons=true/github-readme-stats)
+![Seonjuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai)
