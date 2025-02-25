@@ -25,13 +25,7 @@
 
 
 <!-- Statistics(통계) -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=compact&show_icons=true&theme=monokai&langs_count=6" height="180px"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai&card_width=400" height="180px" />
-</a> -->
+## 📊Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=donut&show_icons=true&theme=monokai&count_private=true" width=38% />
