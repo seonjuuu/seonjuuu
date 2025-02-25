@@ -25,4 +25,5 @@
 
 
 <!-- Statistics(통계) -->
-![Seonjuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu)](https://github.com/anuraghazra/github-readme-stats)
+![seonjuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai)
