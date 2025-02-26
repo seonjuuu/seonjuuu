@@ -22,10 +22,13 @@
 | **🏃걸음걸이** | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 | [걸음걸이](https://github.com/pirogramming/geol-eum-geol-i) |
 
 <!-- Tech Stack -->
-
+<!-- 왼쪽 : Studying..✏ -->
+<!-- 오른쪽 : Tool 🛠 -->
+## 🌱 Tech Stack
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
 <!-- Statistics(통계) -->
-## 📊Statistics
+## 📊 Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=donut&show_icons=true&theme=monokai&count_private=true" width=38% />
