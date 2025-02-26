@@ -25,6 +25,24 @@
 <!-- 왼쪽 : Studying..✏ -->
 <!-- 오른쪽 : Tool 🛠 -->
 ## 🌱 Tech Stack
+<div style="display: flex; justify-content: center; gap: 50px;">
+  <div>
+    <h3 align="center">Studying..✏</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+    </p>
+  </div>
+
+  <div>
+    <h3 align="center">Tool 🛠</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+    </p>
+  </div>
+</div>
+  
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 
 <!-- Statistics(통계) -->
