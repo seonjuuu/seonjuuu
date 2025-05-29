@@ -20,7 +20,7 @@
 | 프로젝트명 | 설명 | 깃허브 |
 |:---------:|:---------:| :---------:|
 | **🏃걸음걸이** | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 | [걸음걸이](https://github.com/pirogramming/geol-eum-geol-i) |
-| **✅피로체크** | 피로그래밍 과제/출석/보증금 관리 서비스 | [피로체크] (https://github.com/pirogramming/PiroCheck) |
+| **✅ 피로체크** | 피로그래밍 과제/출석/보증금 관리 서비스 | [피로체크](https://github.com/pirogramming/PiroCheck) |
 
 
 <!-- Tech Stack -->
