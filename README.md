@@ -46,11 +46,14 @@
 
   <div>
     <h3 >Tool </h3>
-    <p>
+    <p>  
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pgAdmin4-336791?style=flat&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
     </p>
   </div>
 </div>
