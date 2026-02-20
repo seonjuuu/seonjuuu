@@ -29,7 +29,6 @@
     <h3>Studying..✏</h3>
     <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>  
