@@ -64,23 +64,3 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
 </p>
-
-<!-- Statistics -->
-
-## 📊 Statistics
-
-<p align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=donut&show_icons=true&theme=monokai&count_private=true" width="38%" />
-
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-
-    <img src="https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai&count_private=true" width="56%" />
-
-  </a>
-
-</p>
