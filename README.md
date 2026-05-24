@@ -65,17 +65,22 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
 </p>
 
-<!-- Statistics(통계) -->
+<!-- Statistics -->
+
 ## 📊 Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=compact&theme=monokai"
-    width="38%"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai&count_private=true"
-    width="56%"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonjuuu&layout=donut&show_icons=true&theme=monokai&count_private=true" width="38%" />
+
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+
+    <img src="https://github-readme-stats.vercel.app/api?username=seonjuuu&show_icons=true&theme=monokai&count_private=true" width="56%" />
+
+  </a>
+
 </p>
