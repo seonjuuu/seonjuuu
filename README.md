@@ -7,6 +7,7 @@
 
 <!-- 자격증 & 활동 -->
 ## 📚 Certifications & Activities
+- `2025.10 - 2026.4`  **Digital Hana 路 8기(금융서비스개발)**
 - `2025.3 - 2025.8`  **웹 개발 연합 동아리 Pirogramming 23기 운영팀**
 - `2025.3 - 2025.5`  **피로그래밍 서비스 개발 Pironeer 4기 수료**
 - `2024.12 - 2025.2`  **웹 개발 연합 동아리 Pirogramming 22기 수료**
@@ -20,6 +21,8 @@
 |:---------:|:---------:| :---------:|
 | **🏃걸음걸이** | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 | [걸음걸이](https://github.com/pirogramming/geol-eum-geol-i) |
 | **✅ 피로체크** | 피로그래밍 과제/출석/보증금 관리 서비스 | [피로체크](https://github.com/pirogramming/PiroCheck) |
+| **✅ 하나모아** | 디지털 경조사 금융 플랫폼 | [하나모아](https://github.com/HanaMoa/HanaMoa) |
+| **✅ ** | 피로그래밍 과제/출석/보증금 관리 서비스 | [피로체크](https://github.com/pirogramming/PiroCheck) |
 
 
 <!-- Tech Stack -->
