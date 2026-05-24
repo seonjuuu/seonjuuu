@@ -21,8 +21,8 @@
 |:---------:|:---------:| :---------:|
 | **🏃걸음걸이** | 멈추지 않을 당신의 걸음을 위한 맞춤형 서비스 | [걸음걸이](https://github.com/pirogramming/geol-eum-geol-i) |
 | **✅ 피로체크** | 피로그래밍 과제/출석/보증금 관리 서비스 | [피로체크](https://github.com/pirogramming/PiroCheck) |
-| **✅ 하나모아** | 디지털 경조사 금융 플랫폼 | [하나모아](https://github.com/HanaMoa/HanaMoa) |
-| **✅ ** | 피로그래밍 과제/출석/보증금 관리 서비스 | [피로체크](https://github.com/pirogramming/PiroCheck) |
+| **💌 하나모아** | 디지털 경조사 금융 플랫폼 | [하나모아](https://github.com/HanaMoa/HanaMoa) |
+| **💚 하나커넥트** | 돈 + 감정 + 기록을 함께 전달하는 금융 서비스 | [하나커넥트](https://github.com/hana-connect/backend) |
 
 
 <!-- Tech Stack -->
